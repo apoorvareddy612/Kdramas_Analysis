@@ -6,6 +6,9 @@ This Repository is purely to increase my analytical and visualising skills.
 
 Feel Free to fork and update the dataset with the Korean dramas you watch :smile:
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/apoorvareddy612/Kdramas_Analysis/pulls)
+[![Star Repo](https://img.shields.io/badge/Star%20Repo-Yay-yellow)](https://github.com/apoorvareddy612/Kdramas_Analysis/stargazers)
+
 ## Tech Stack Used
 
 ```
