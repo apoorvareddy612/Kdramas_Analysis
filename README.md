@@ -1,4 +1,5 @@
 <h1 align="center">Korean Drama Analysis</h1>
+안녕하세요
 
    ![IMG_0095](https://user-images.githubusercontent.com/61325120/124792580-bddf7d80-df6a-11eb-82c6-a0386e989d21.jpg)
 
