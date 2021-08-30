@@ -10,6 +10,7 @@ Feel Free to fork and update the dataset with the Korean dramas you watch :smile
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/apoorvareddy612/Kdramas_Analysis/pulls)
 [![Star Repo](https://img.shields.io/badge/Star%20Repo-Yay-yellow)](https://github.com/apoorvareddy612/Kdramas_Analysis/stargazers)
 
+I wrote an article on Medium anout this repo:  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@apoorvareddy612/korean-drama-analysis-4da6146ffaab)
 ## Tech Stack Used
 
 ```
