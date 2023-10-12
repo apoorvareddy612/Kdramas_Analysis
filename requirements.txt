@@ -1,0 +1,6 @@
+pandas == 1.4.4
+numpy == 1.24.1
+matplotlib == 3.5.2
+bokeh == 2.4.3
+seaborn == 0.11.2
+python == 3.8.8
